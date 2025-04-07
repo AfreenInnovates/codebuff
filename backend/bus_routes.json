@@ -1,0 +1,1287 @@
+{
+    "1": {
+        "route no": "1",
+        "origin": "Jayanagar 9th block Petrol Pump",
+        "destination": "Yeshvantapur Railway station"
+    },
+    "2": {
+        "route no": "2",
+        "origin": "KBS (Majestic)",
+        "destination": "J.P.Nagar 6th Phase"
+    },
+    "2A": {
+        "route no": "2A",
+        "origin": "KBS (Majestic)",
+        "destination": "IG - Indira Gandhi circle"
+    },
+    "2B": {
+        "route no": "2B",
+        "origin": "KBS (Majestic)",
+        "destination": "Eliyas Nagar"
+    },
+    "2F": {
+        "route no": "2F",
+        "origin": "KBS (Majestic)",
+        "destination": "Basaveshwaranagar"
+    },
+    "3B": {
+        "route no": "3B",
+        "origin": "J.P.Nagar 6th Phase",
+        "destination": "Jayanagar 9th Block"
+    },
+    "3E": {
+        "route no": "3E",
+        "origin": "Banashankari 3rd Stage 2nd Phase",
+        "destination": "BTM Layout"
+    },
+    "12": {
+        "route no": "12",
+        "origin": "Banashankari",
+        "destination": "Banashankari 2nd Stage"
+    },
+    "12A": {
+        "route no": "12A",
+        "origin": "Banashankari Bus Stand",
+        "destination": "Shivajinagar"
+    },
+    "12B": {
+        "route no": "12B",
+        "origin": "Shivajinagar",
+        "destination": "Malleshwaram Bus Station"
+    },
+    "12E": {
+        "route no": "12E",
+        "origin": "Padmanabhanagar",
+        "destination": "Kumaraswamy Layout"
+    },
+    "13": {
+        "route no": "13",
+        "origin": "KBS (Majestic)",
+        "destination": "Mathikere"
+    },
+    "13B": {
+        "route no": "13B",
+        "origin": "BTM Layout (Kuvempunagar)",
+        "destination": "J.P.Nagar 3rd phase"
+    },
+    "14": {
+        "route no": "14",
+        "origin": "Byrasandra",
+        "destination": "Ganganagar"
+    },
+    "15A": {
+        "route no": "15A",
+        "origin": "Kamalanagar",
+        "destination": "Shivajinagar"
+    },
+    "15E": {
+        "route no": "15E",
+        "origin": "Domlur",
+        "destination": "Gandhi Bazaar"
+    },
+    "21 (Pushpak)": {
+        "route no": "21 (Pushpak)",
+        "origin": "KBS (Majestic)",
+        "destination": "Banashankari 3rd Stage 2nd Phase"
+    },
+    "25": {
+        "route no": "25",
+        "origin": "RT Nagar",
+        "destination": "Bapuji Nagar"
+    },
+    "25 E": {
+        "route no": "25 E",
+        "origin": "Banashankari 3rd Stage 2nd Phase",
+        "destination": "KBS (Majestic)"
+    },
+    "26": {
+        "route no": "26",
+        "origin": "Hosakerehalli",
+        "destination": "N R Colony"
+    },
+    "30": {
+        "route no": "30",
+        "origin": "Malleswaram Bus Station",
+        "destination": "Hosakerehalli"
+    },
+    "33E": {
+        "route no": "33E",
+        "origin": "KBS (Majestic)",
+        "destination": "Banashankari 3rd Stage 2nd Phase"
+    },
+    "34": {
+        "route no": "34",
+        "origin": "NR Colony",
+        "destination": "Banashankari 3rd Stage 2nd Phase"
+    },
+    "38": {
+        "route no": "38",
+        "origin": "Banashankari 3rd Stage 2nd Phase",
+        "destination": "KBS (Majestic)"
+    },
+    "41": {
+        "route no": "41",
+        "origin": "KBS (Majestic)",
+        "destination": "Banashankari"
+    },
+    "43B": {
+        "route no": "43B",
+        "origin": "KBS (Majestic)",
+        "destination": "Banashankari 3rd Stage 2nd Phase"
+    },
+    "43E": {
+        "route no": "43E",
+        "origin": "Hosakerehalli",
+        "destination": "N R Colony"
+    },
+    "44": {
+        "route no": "44",
+        "origin": "KBS (Majestic)",
+        "destination": "Banashankari 3rd Stage 2nd Phase"
+    },
+    "57A": {
+        "route no": "57A",
+        "origin": "KBS (Majestic)",
+        "destination": "Yeshvantapur Railway station"
+    },
+    "59": {
+        "route no": "59",
+        "origin": "Vijayanagar",
+        "destination": "K.R Market"
+    },
+    "60A": {
+        "route no": "60A",
+        "origin": "Jayanagar 9th Block",
+        "destination": "Vijayanagar"
+    },
+    "60E": {
+        "route no": "60E",
+        "origin": "BTM layout",
+        "destination": "Vijayanagar via 60A"
+    },
+    "61": {
+        "route no": "61",
+        "origin": "KBS (Majestic)",
+        "destination": "Vijaynagar"
+    },
+    "61A,G": {
+        "route no": "61A,G",
+        "origin": "KBS (Majestic)",
+        "destination": "Chandra Layout"
+    },
+    "61B": {
+        "route no": "61B",
+        "origin": "KBS (Majestic)",
+        "destination": "Vijaynagar (Maruthi Mandir)"
+    },
+    "61C": {
+        "route no": "61C",
+        "origin": "KBS (Majestic)",
+        "destination": "BCC layout"
+    },
+    "61J": {
+        "route no": "61J",
+        "origin": "Shivajinagar",
+        "destination": "Chandra Layout 1st Stage"
+    },
+    "63": {
+        "route no": "63",
+        "origin": "KBS (Majestic)",
+        "destination": "Vijaynagar"
+    },
+    "64": {
+        "route no": "64",
+        "origin": "Malleshwaram 18th cross",
+        "destination": "Hampinagar(RPC Layout)"
+    },
+    "65B": {
+        "route no": "65B",
+        "origin": "Mathikere",
+        "destination": "K.H.B.Colony"
+    },
+    "75": {
+        "route no": "75",
+        "origin": "Vijayanagar",
+        "destination": "Vijayanagar"
+    },
+    "75B": {
+        "route no": "75B",
+        "origin": "Nandini Layout",
+        "destination": "Vijayanagar"
+    },
+    "77B": {
+        "route no": "77B",
+        "origin": "JaiMaruthinagar",
+        "destination": "Goraguntepalya"
+    },
+    "77C": {
+        "route no": "77C",
+        "origin": "Jayanagar 9th Block",
+        "destination": "KBS (Majestic)"
+    },
+    "80A": {
+        "route no": "80A",
+        "origin": "KBS (Majestic)",
+        "destination": "KBS (Majestic)"
+    },
+    "80B": {
+        "route no": "80B",
+        "origin": "Majestic",
+        "destination": "Yeshvantapur Railway station"
+    },
+    "80C": {
+        "route no": "80C",
+        "origin": "KBS (Majestic)",
+        "destination": "KBS (Majestic)"
+    },
+    "86E": {
+        "route no": "86E",
+        "origin": "KBS (Majestic)",
+        "destination": "Kamala nagar"
+    },
+    "87": {
+        "route no": "87",
+        "origin": "KBS (Majestic)",
+        "destination": "BEML layout"
+    },
+    "88": {
+        "route no": "88",
+        "origin": "Kamala nagar",
+        "destination": "Bhimjyoti Nagar"
+    },
+    "88A": {
+        "route no": "88A",
+        "origin": "Chowdeshwari/JP nagar bus station",
+        "destination": "BTM Layout"
+    },
+    "96": {
+        "route no": "96",
+        "origin": "J.P.Nagar 3rd phase",
+        "destination": "BTM Layout"
+    },
+    "90E": {
+        "route no": "90E",
+        "origin": "Banashankari",
+        "destination": "Kamala Nagar"
+    },
+    "96A": {
+        "route no": "96A",
+        "origin": "Banashankari",
+        "destination": "BTM Layout"
+    },
+    "96B": {
+        "route no": "96B",
+        "origin": "J.P.Nagar 3rd phase",
+        "destination": "Kamala Nagar"
+    },
+    "96C": {
+        "route no": "96C",
+        "origin": "Banashankari",
+        "destination": "J.P.Nagar 3rd phase"
+    },
+    "96D": {
+        "route no": "96D",
+        "origin": "Byrasandra",
+        "destination": "Ganganagar"
+    },
+    "96F": {
+        "route no": "96F",
+        "origin": "Banashankari",
+        "destination": "J.P.Nagar 6th Phase"
+    },
+    "99E": {
+        "route no": "99E",
+        "origin": "Domlur",
+        "destination": "Gandhi Bazaar"
+    },
+    "100E": {
+        "route no": "100E",
+        "origin": "KBS (Majestic)",
+        "destination": "Banashankari 3rd Stage 2nd Phase"
+    },
+    "107D": {
+        "route no": "107D",
+        "origin": "Yeshvantapur",
+        "destination": "Mathikere"
+    },
+    "112E": {
+        "route no": "112E",
+        "origin": "Koramangla",
+        "destination": "Kaval Byrasandra"
+    },
+    "115A": {
+        "route no": "115A",
+        "origin": "KBS (Majestic)",
+        "destination": "Ananda Nagar"
+    },
+    "114E": {
+        "route no": "114E",
+        "origin": "Chinnapa Garden",
+        "destination": "Domlur bus station"
+    },
+    "115": {
+        "route no": "115",
+        "origin": "KBS(Majestic)",
+        "destination": "Ananda Nagar"
+    },
+    "119A": {
+        "route no": "119A",
+        "origin": "KBS(Majestic)",
+        "destination": "Chinnapa Garden"
+    },
+    "124": {
+        "route no": "124",
+        "origin": "KBS(Majestic)",
+        "destination": "Chinnapa Garden"
+    },
+    "131,131F": {
+        "route no": "131,131F",
+        "origin": "KBS(Majestic)",
+        "destination": "Domlur bus station"
+    },
+    "137": {
+        "route no": "137",
+        "origin": "Yeshvantapur",
+        "destination": "Domlur"
+    },
+    "137A": {
+        "route no": "137A",
+        "origin": "Yeshvanthpur",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "138": {
+        "route no": "138",
+        "origin": "Kempegowda Bus Station",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "138D": {
+        "route no": "138D",
+        "origin": "Kempegowda Bus Station",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "139": {
+        "route no": "139",
+        "origin": "Shivajinagar",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "144G": {
+        "route no": "144G",
+        "origin": "SultanPalya",
+        "destination": "Rose Garden"
+    },
+    "144H": {
+        "route no": "144H",
+        "origin": "Nandini Layout",
+        "destination": "Viveknagar"
+    },
+    "144K": {
+        "route no": "144K",
+        "origin": "Kaval Byrasandra",
+        "destination": "Nellasandra"
+    },
+    "162A": {
+        "route no": "162A",
+        "origin": "KBS (Majestic)",
+        "destination": "Rose Garden"
+    },
+    "173": {
+        "route no": "173",
+        "origin": "Yeshvantapur",
+        "destination": "Madivala"
+    },
+    "173A": {
+        "route no": "173A",
+        "origin": "Mathikere",
+        "destination": "Koramangala"
+    },
+    "174": {
+        "route no": "174",
+        "origin": "Koramangala",
+        "destination": "Koramangala"
+    },
+    "176": {
+        "route no": "176",
+        "origin": "Kaval Byrasandra",
+        "destination": "Nandini Layout"
+    },
+    "180": {
+        "route no": "180",
+        "origin": "K.H.B.Colony",
+        "destination": "Hampinagar"
+    },
+    "181": {
+        "route no": "181",
+        "origin": "Bhima Jyoti Nagar",
+        "destination": "Kaval Byrasandra"
+    },
+    "186": {
+        "route no": "186",
+        "origin": "Nandini Layout",
+        "destination": "Jayanagar 9th block"
+    },
+    "188": {
+        "route no": "188",
+        "origin": "Sultan Palya",
+        "destination": "Mathikere"
+    },
+    "188B": {
+        "route no": "188B",
+        "origin": "Chowdeshwarinagar a",
+        "destination": "Mahalakshmi Layout"
+    },
+    "189": {
+        "route no": "189",
+        "origin": "Jeevan Bhima Nagar",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "190": {
+        "route no": "190",
+        "origin": "Jeevan Bhima Nagar",
+        "destination": "Jeevan Bhima Nagar via 190"
+    },
+    "190A": {
+        "route no": "190A",
+        "origin": "Sultan Palya",
+        "destination": "Srinagar"
+    },
+    "197": {
+        "route no": "197",
+        "origin": "Jeevan Bhima Nagar",
+        "destination": "Madivala Mosque (Madivala Ayyapa Temple)"
+    },
+    "201": {
+        "route no": "201",
+        "origin": "Banashankari",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "201D": {
+        "route no": "201D",
+        "origin": "Jeevanhalli",
+        "destination": "Srinagar"
+    },
+    "201G": {
+        "route no": "201G",
+        "origin": "Chikkalsandra",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "201J": {
+        "route no": "201J",
+        "origin": "Jeevan Bhima Nagar",
+        "destination": "Uttarahalli"
+    },
+    "201H": {
+        "route no": "201H",
+        "origin": "Jeevan Bhima Nagar",
+        "destination": "Rajankunte"
+    },
+    "201M": {
+        "route no": "201M",
+        "origin": "Jeevan Bhima Nagar",
+        "destination": "Doddballapur"
+    },
+    "201MA": {
+        "route no": "201MA",
+        "origin": "Jeevan Bhima Nagar",
+        "destination": "Rajankunte"
+    },
+    "201MD": {
+        "route no": "201MD",
+        "origin": "Domlur",
+        "destination": "J.P.Nagar 6th Phase"
+    },
+    "201MJ": {
+        "route no": "201MJ",
+        "origin": "Banashankari",
+        "destination": "Jeevan Bhima Nagar"
+    },
+    "201R (Volvo)": {
+        "route no": "201R (Volvo)",
+        "origin": "CV Raman Nagar",
+        "destination": "J.P.Nagar 6th Phase"
+    },
+    "201RC (AC Marcopolo)": {
+        "route no": "201RC (AC Marcopolo)",
+        "origin": "CV Raman Nagar",
+        "destination": "J.P.Nagar 6th Phase"
+    },
+    "201S": {
+        "route no": "201S",
+        "origin": "Domlur",
+        "destination": "AGCS Layout"
+    },
+    "201U": {
+        "route no": "201U",
+        "origin": "Jayanagar 4th Block",
+        "destination": "K.R.Market"
+    },
+    "201V": {
+        "route no": "201V",
+        "origin": "K.R.Market",
+        "destination": "K.R.Market"
+    },
+    "211N": {
+        "route no": "211N",
+        "origin": "Doddabasti",
+        "destination": "K.R.Market"
+    },
+    "213V": {
+        "route no": "213V",
+        "origin": "Banashankari",
+        "destination": "Ullal Satellite Town"
+    },
+    "215Z": {
+        "route no": "215Z",
+        "origin": "K.R.Market",
+        "destination": "Kempegowda Bus station"
+    },
+    "222A": {
+        "route no": "222A",
+        "origin": "K.R.Market",
+        "destination": "N.R.Colony"
+    },
+    "222D": {
+        "route no": "222D",
+        "origin": "Jalahalli Cross",
+        "destination": "K.R.Market"
+    },
+    "223J": {
+        "route no": "223J",
+        "origin": "K.R.Market",
+        "destination": "Banashankari"
+    },
+    "224L": {
+        "route no": "224L",
+        "origin": "Ullal Satellite Town",
+        "destination": "Nagarbhavi"
+    },
+    "226W": {
+        "route no": "226W",
+        "origin": "Sunkadgatte",
+        "destination": "Jalahalli Cross"
+    },
+    "234B": {
+        "route no": "234B",
+        "origin": "Jalahalli Cross",
+        "destination": "Jayanagar 9th block"
+    },
+    "235N": {
+        "route no": "235N",
+        "origin": "Vidyaranyapura",
+        "destination": "Vidyaranyapura"
+    },
+    "240P": {
+        "route no": "240P",
+        "origin": "Bhoopasandra",
+        "destination": "Bhoopasandra"
+    },
+    "248SA/60A": {
+        "route no": "248SA/60A",
+        "origin": "Market",
+        "destination": "Market"
+    },
+    "270H": {
+        "route no": "270H",
+        "origin": "Shivajinagar",
+        "destination": "Shivajinagar"
+    },
+    "270HA": {
+        "route no": "270HA",
+        "origin": "KBS (Majestic)",
+        "destination": "KBS (Majestic)"
+    },
+    "276G (Volvo)": {
+        "route no": "276G (Volvo)",
+        "origin": "K.R.Puram",
+        "destination": "Ramamurthy Nagar"
+    },
+    "276N": {
+        "route no": "276N",
+        "origin": "Sarjapura",
+        "destination": "Attibelle"
+    },
+    "278B": {
+        "route no": "278B",
+        "origin": "Hosakote",
+        "destination": "Electronic City"
+    },
+    "279F": {
+        "route no": "279F",
+        "origin": "Bannerghatta National Park",
+        "destination": "Vijayanagar"
+    },
+    "285": {
+        "route no": "285",
+        "origin": "Byrasandra (Jayanagar)",
+        "destination": "Electronic City"
+    },
+    "285 MK": {
+        "route no": "285 MK",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "285 M": {
+        "route no": "285 M",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "298 M": {
+        "route no": "298 M",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "300Q": {
+        "route no": "300Q",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "301E": {
+        "route no": "301E",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "314": {
+        "route no": "314",
+        "origin": "K R Market",
+        "destination": "Basavanagar"
+    },
+    "314A": {
+        "route no": "314A",
+        "origin": "KBS (Majestic)",
+        "destination": "KBS (Majestic)"
+    },
+    "314B": {
+        "route no": "314B",
+        "origin": "C V Raman Nagar",
+        "destination": "Shivajinagar"
+    },
+    "314D": {
+        "route no": "314D",
+        "origin": "Hosakote",
+        "destination": "Chennamanakere Achukattu"
+    },
+    "314E": {
+        "route no": "314E",
+        "origin": "Vignananagar",
+        "destination": "K.R.Puram"
+    },
+    "314F": {
+        "route no": "314F",
+        "origin": "K R Market",
+        "destination": "Bhyrasandra"
+    },
+    "314G": {
+        "route no": "314G",
+        "origin": "KBS (Majestic)",
+        "destination": "KBS (Majestic)"
+    },
+    "314H": {
+        "route no": "314H",
+        "origin": "C V Raman Nagar",
+        "destination": "Malleshpalya"
+    },
+    "314K": {
+        "route no": "314K",
+        "origin": "Shivajinagar",
+        "destination": "Chennamanakere Achukattu"
+    },
+    "314N": {
+        "route no": "314N",
+        "origin": "K.R.Puram",
+        "destination": "Ramamurthy Nagar"
+    },
+    "315K": {
+        "route no": "315K",
+        "origin": "KBS (Majestic)",
+        "destination": "KBS (Majestic)"
+    },
+    "315-L": {
+        "route no": "315-L",
+        "origin": "Hosakote",
+        "destination": "Electronic City"
+    },
+    "328B": {
+        "route no": "328B",
+        "origin": "Kodigehalli",
+        "destination": "Byadarahalli"
+    },
+    "328H": {
+        "route no": "328H",
+        "origin": "Jalahalli Cross",
+        "destination": "Abbigere"
+    },
+    "328HA": {
+        "route no": "328HA",
+        "origin": "Byatarayanpura",
+        "destination": "Hebbal Ring Road"
+    },
+    "334E": {
+        "route no": "334E",
+        "origin": "Domlur",
+        "destination": "Yelahanka Satellite Town"
+    },
+    "356J": {
+        "route no": "356J",
+        "origin": "Yelahanka Satellite Town",
+        "destination": "Bagalkunte"
+    },
+    "365M": {
+        "route no": "365M",
+        "origin": "Hulimavu",
+        "destination": "Kengeri"
+    },
+    "366P": {
+        "route no": "366P",
+        "origin": "Shirke",
+        "destination": "Shantinagar"
+    },
+    "369M": {
+        "route no": "369M",
+        "origin": "Jigani",
+        "destination": "Jayanagar 4th Block"
+    },
+    "375": {
+        "route no": "375",
+        "origin": "Anekal",
+        "destination": "Anekal"
+    },
+    "375A (Volvo)": {
+        "route no": "375A (Volvo)",
+        "origin": "Yelahanka",
+        "destination": "Yelahanka"
+    },
+    "375 B": {
+        "route no": "375 B",
+        "origin": "Yeshvantapur",
+        "destination": "Yelahanka"
+    },
+    "378": {
+        "route no": "378",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "378A": {
+        "route no": "378A",
+        "origin": "Shirke",
+        "destination": "Electronic city"
+    },
+    "378B": {
+        "route no": "378B",
+        "origin": "Kengeri",
+        "destination": "Electronic city"
+    },
+    "399": {
+        "route no": "399",
+        "origin": "Hosakote",
+        "destination": "Chikka Tirupati"
+    },
+    "399C": {
+        "route no": "399C",
+        "origin": "Yeshvantapur",
+        "destination": "Hampi Nagar"
+    },
+    "401": {
+        "route no": "401",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "401B": {
+        "route no": "401B",
+        "origin": "TTMC",
+        "destination": "Anekal"
+    },
+    "401M": {
+        "route no": "401M",
+        "origin": "Yelahanka",
+        "destination": "Yelahanka"
+    },
+    "401K": {
+        "route no": "401K",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "401P": {
+        "route no": "401P",
+        "origin": "Yeshwantapura",
+        "destination": "Market"
+    },
+    "401S": {
+        "route no": "401S",
+        "origin": "Kengeri",
+        "destination": "Kengeri"
+    },
+    "402": {
+        "route no": "402",
+        "origin": "K R Market",
+        "destination": "Basavanagar"
+    },
+    "402 B & 402 Majestic D": {
+        "route no": "402 B & 402 Majestic D",
+        "origin": "ISRO Layout",
+        "destination": "Chikkalasandra"
+    },
+    "402 C Majestic": {
+        "route no": "402 C Majestic",
+        "origin": "Jalahalli Cross",
+        "destination": "Vijayanagar"
+    },
+    "402G": {
+        "route no": "402G",
+        "origin": "Electronic City",
+        "destination": "Agara"
+    },
+    "402M": {
+        "route no": "402M",
+        "origin": "Hennur Cross",
+        "destination": "K.Narayanapura"
+    },
+    "410": {
+        "route no": "410",
+        "origin": "Electronic City",
+        "destination": "Brigade Road"
+    },
+    "410C": {
+        "route no": "410C",
+        "origin": "Agara",
+        "destination": "Hennur Cross"
+    },
+    "410D": {
+        "route no": "410D",
+        "origin": "Electronic City",
+        "destination": "Banashankari"
+    },
+    "410E": {
+        "route no": "410E",
+        "origin": "Central silk Board",
+        "destination": ""
+    },
+    "412": {
+        "route no": "412",
+        "origin": "Banashankari",
+        "destination": "Yelahanka Satellite Town"
+    },
+    "414": {
+        "route no": "414",
+        "origin": "Hebbal",
+        "destination": "Hebbal"
+    },
+    "415S": {
+        "route no": "415S",
+        "origin": "nagenahalli",
+        "destination": "Banashankari"
+    },
+    "500A": {
+        "route no": "500A",
+        "origin": "Banashankari",
+        "destination": "Yelahanka Satellite Town"
+    },
+    "500AA": {
+        "route no": "500AA",
+        "origin": "Brigade",
+        "destination": "Millenium(J.P.Nagar 7th Phase)"
+    },
+    "500BM(Volvo)": {
+        "route no": "500BM(Volvo)",
+        "origin": "Hebbal",
+        "destination": "Hebbal (Volvo)"
+    },
+    "500C": {
+        "route no": "500C",
+        "origin": "Banashankari (Volvo)",
+        "destination": "Central silk Board"
+    },
+    "500D": {
+        "route no": "500D",
+        "origin": "Hebbal",
+        "destination": "Vidyaranyapura (Volvo)"
+    },
+    "500DE": {
+        "route no": "500DE",
+        "origin": "Hebbal (Volvo)",
+        "destination": "Hebbal"
+    },
+    "500DF(Volvo)": {
+        "route no": "500DF(Volvo)",
+        "origin": "Hebbal",
+        "destination": "Hebbal"
+    },
+    "500K(Volvo)": {
+        "route no": "500K(Volvo)",
+        "origin": "Vijayanagar",
+        "destination": "Mathikere"
+    },
+    "500KB(Volvo)": {
+        "route no": "500KB(Volvo)",
+        "origin": "Gottigere",
+        "destination": "Kalyani Magnum (J.P.Nagar 4th phase)"
+    },
+    "505 (Volvo)": {
+        "route no": "505 (Volvo)",
+        "origin": "ITPL",
+        "destination": "Jeevanbhimanagar (Volvo)"
+    },
+    "505A": {
+        "route no": "505A",
+        "origin": "Krishnarajapuram Railway Station",
+        "destination": "ITPL"
+    },
+    "600K(Volvo)": {
+        "route no": "600K(Volvo)",
+        "origin": "Vijayanagar",
+        "destination": "Electronic City"
+    },
+    "600QA": {
+        "route no": "600QA",
+        "origin": "Gate",
+        "destination": "Banashankari"
+    },
+    "BIAS-4": {
+        "route no": "BIAS-4",
+        "origin": "Old airport(HAL)",
+        "destination": "J.P.Nagar 6th Phase"
+    },
+    "BIAS-5": {
+        "route no": "BIAS-5",
+        "origin": "Kadugodi",
+        "destination": "HSR Layout"
+    },
+    "BIAS-6": {
+        "route no": "BIAS-6",
+        "origin": "HSR Layout",
+        "destination": "Electronic City"
+    },
+    "BIAS-7": {
+        "route no": "BIAS-7",
+        "origin": "BTM Layout",
+        "destination": "Majestic"
+    },
+    "BIAS-7A": {
+        "route no": "BIAS-7A",
+        "origin": "Electronic City",
+        "destination": "BTM Layout"
+    },
+    "BIAS-8": {
+        "route no": "BIAS-8",
+        "origin": "Majestic",
+        "destination": "Chikkalasandra"
+    },
+    "BIAS-8A": {
+        "route no": "BIAS-8A",
+        "origin": "BTM Layout",
+        "destination": "Majestic"
+    },
+    "BIAS-9": {
+        "route no": "BIAS-9",
+        "origin": "Chikkalasandra",
+        "destination": "BTM LAyout"
+    },
+    "BIAS-11": {
+        "route no": "BIAS-11",
+        "origin": "BTM LAyout",
+        "destination": "Majestic"
+    },
+    "BIAS-12": {
+        "route no": "BIAS-12",
+        "origin": "Majestic",
+        "destination": "Electronic City"
+    },
+    "BC-1": {
+        "route no": "BC-1",
+        "origin": "Doddenakundi",
+        "destination": "Bellandur"
+    },
+    "BC-1A": {
+        "route no": "BC-1A",
+        "origin": "Marathahalli Bridge",
+        "destination": "Electronic City"
+    },
+    "BC-2": {
+        "route no": "BC-2",
+        "origin": "Kodathi Gate",
+        "destination": "Varthoor"
+    },
+    "BC-3A": {
+        "route no": "BC-3A",
+        "origin": "HSr Layour",
+        "destination": "Kodi St. Johns"
+    },
+    "BC-4": {
+        "route no": "BC-4",
+        "origin": "CPWD",
+        "destination": "Banashankari"
+    },
+    "BC-4A": {
+        "route no": "BC-4A",
+        "origin": "Jayanagar 4th Block",
+        "destination": "Yelenhalli"
+    },
+    "BC-5": {
+        "route no": "BC-5",
+        "origin": "TTMC Kengeri",
+        "destination": "Ullal Satellite Town"
+    },
+    "BC-6": {
+        "route no": "BC-6",
+        "origin": "Uttarahalli",
+        "destination": "Kaggalipura"
+    },
+    "BC-6A": {
+        "route no": "BC-6A",
+        "origin": "Kengeri",
+        "destination": "Ullal Satellite Town"
+    },
+    "BC-7": {
+        "route no": "BC-7",
+        "origin": "Ullal Satellite Town",
+        "destination": "Peenya 2nd stage"
+    },
+    "BC-7A": {
+        "route no": "BC-7A",
+        "origin": "Kodigehalli",
+        "destination": "Madanayakanhalli 8th Mile"
+    },
+    "BC-7B": {
+        "route no": "BC-7B",
+        "origin": "Tumkur Road",
+        "destination": "Vidyaranyapura"
+    },
+    "BC-8": {
+        "route no": "BC-8",
+        "origin": "Jalahalli Cross",
+        "destination": "Nagavara junction"
+    },
+    "BC-8A": {
+        "route no": "BC-8A",
+        "origin": "Abbigere",
+        "destination": "Bagalur"
+    },
+    "BC-9": {
+        "route no": "BC-9",
+        "origin": "Byatarayanpura",
+        "destination": "Kothanur(Hennur)"
+    },
+    "BC-9A": {
+        "route no": "BC-9A",
+        "origin": "Byatarayanpura",
+        "destination": "Kannur"
+    },
+    "BC-11": {
+        "route no": "BC-11",
+        "origin": "K.R.Puram",
+        "destination": "Geddalhalli"
+    },
+    "BC-11A": {
+        "route no": "BC-11A",
+        "origin": "Avalahalli(Old Madras Road)",
+        "destination": "HAL Gate"
+    },
+    "BC-12": {
+        "route no": "BC-12",
+        "origin": "Kothanur(Hennur)",
+        "destination": "Kaval Byrasandra"
+    },
+    "BC-12A": {
+        "route no": "BC-12A",
+        "origin": "K.R.Puram",
+        "destination": "Kothanur(Hennur)"
+    },
+    "BC-12B": {
+        "route no": "BC-12B",
+        "origin": "K.R.Puram",
+        "destination": "Nandini Layout"
+    },
+    "FDR1": {
+        "route no": "FDR1",
+        "origin": "Uttarahalli",
+        "destination": "Uttarahalli"
+    },
+    "FDR2": {
+        "route no": "FDR2",
+        "origin": "Uttarahalli",
+        "destination": "Uttarahalli"
+    },
+    "FDR-5": {
+        "route no": "FDR-5",
+        "origin": "Chikkalasandra",
+        "destination": "Chikkalasandra"
+    },
+    "FDR-6": {
+        "route no": "FDR-6",
+        "origin": "Chikkalasandra",
+        "destination": "Chikkalasandra"
+    },
+    "NLMF-1": {
+        "route no": "NLMF-1",
+        "origin": "Yeshvantapur",
+        "destination": "Hessarghatta"
+    },
+    "NLMF-2": {
+        "route no": "NLMF-2",
+        "origin": "RMC",
+        "destination": "Chikka Banawara"
+    },
+    "WFS-1&2": {
+        "route no": "WFS-1&2",
+        "origin": "Peenya 2nd stage",
+        "destination": "Marathahalli"
+    },
+    "MBS": {
+        "route no": "MBS",
+        "origin": "Marathahalli",
+        "destination": "Jalahalli Cross"
+    },
+    "MF1(129D)": {
+        "route no": "MF1(129D)",
+        "origin": "KBS(Majestic)",
+        "destination": "To KBS(Majestic)"
+    },
+    "MF-2": {
+        "route no": "MF-2",
+        "origin": "KBS(Majestic)",
+        "destination": "KBS(Majestic)"
+    },
+    "MF-3": {
+        "route no": "MF-3",
+        "origin": "Banashankari",
+        "destination": "Shivajinagar bus Stand"
+    },
+    "MF-4": {
+        "route no": "MF-4",
+        "origin": "Central Silk Board",
+        "destination": "Madiwala"
+    },
+    "MF-5": {
+        "route no": "MF-5",
+        "origin": "Thambuchetty Palya",
+        "destination": "Baiyappanhalli Station"
+    },
+    "MF-6": {
+        "route no": "MF-6",
+        "origin": "ITI Colony",
+        "destination": "Mysore Road Satellite Bus stand(MCTC)"
+    },
+    "MF-7": {
+        "route no": "MF-7",
+        "origin": "Domlur",
+        "destination": "M.G.Road Metro Station"
+    },
+    "MF-9": {
+        "route no": "MF-9",
+        "origin": "Kalyan nagar",
+        "destination": "Old Baiyappanhalli"
+    },
+    "MF10(121BA)": {
+        "route no": "MF10(121BA)",
+        "origin": "Mangamman Palya",
+        "destination": "Kadugodi"
+    },
+    "G-1": {
+        "route no": "G-1",
+        "origin": "MG Road",
+        "destination": "Kadugodi"
+    },
+    "G-2": {
+        "route no": "G-2",
+        "origin": "Brigade Road",
+        "destination": "Sarjapura"
+    },
+    "G-3": {
+        "route no": "G-3",
+        "origin": "Brigade Road",
+        "destination": "Electronic city"
+    },
+    "G-4": {
+        "route no": "G-4",
+        "origin": "Brigade Road",
+        "destination": "Bannerghatta National Park"
+    },
+    "G-5": {
+        "route no": "G-5",
+        "origin": "Brigade Road",
+        "destination": "Kaggalipura"
+    },
+    "G-6": {
+        "route no": "G-6",
+        "origin": "Brigade Road",
+        "destination": "Kengeri Satellite Town"
+    },
+    "G-7": {
+        "route no": "G-7",
+        "origin": "Kempegowda Bus Janapriya Township Station",
+        "destination": "M.G.Road Metro station"
+    },
+    "G-8": {
+        "route no": "G-8",
+        "origin": "Nelamangala",
+        "destination": "Corporation"
+    },
+    "G-9": {
+        "route no": "G-9",
+        "origin": "Yelahanka Satellite Town",
+        "destination": "Corporation"
+    },
+    "G-10": {
+        "route no": "G-10",
+        "origin": "RK Hegde Nagar",
+        "destination": "M.G.Road Metro station"
+    },
+    "G-11": {
+        "route no": "G-11",
+        "origin": "Bagalur",
+        "destination": "Shantinagar"
+    },
+    "G-12": {
+        "route no": "G-12",
+        "origin": "Hosakote",
+        "destination": "M.G.Road Metro station"
+    },
+    "B-3": {
+        "route no": "B-3",
+        "origin": "Electronic City",
+        "destination": "Peenya 2nd stage"
+    },
+    "C-1": {
+        "route no": "C-1",
+        "origin": "Hebbal",
+        "destination": "Kengeri"
+    },
+    "C-3": {
+        "route no": "C-3",
+        "origin": "Hebbal",
+        "destination": "Banashankari"
+    },
+    "D-5": {
+        "route no": "D-5",
+        "origin": "Banashankari",
+        "destination": "Hebbal"
+    },
+    "D-6": {
+        "route no": "D-6",
+        "origin": "Kengeri Satellite Town",
+        "destination": "Kadugodi"
+    },
+    "D-9": {
+        "route no": "D-9",
+        "origin": "Banashankari",
+        "destination": "Marathahalli"
+    },
+    "D-12": {
+        "route no": "D-12",
+        "origin": "Banashankari",
+        "destination": "Tin Factory"
+    },
+    "K-1": {
+        "route no": "K-1",
+        "origin": "St. John's Hospital",
+        "destination": "Yeshvantapur"
+    },
+    "K-2": {
+        "route no": "K-2",
+        "origin": "Hebbal",
+        "destination": "MCTC"
+    },
+    "K-3": {
+        "route no": "K-3",
+        "origin": "Basaweshwaranagar",
+        "destination": "Koramangala"
+    }
+}

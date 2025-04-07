@@ -1,0 +1,268 @@
+route no,origin,destination
+1,Jayanagar 9th block Petrol Pump,Yeshvantapur Railway station
+2,KBS (Majestic),J.P.Nagar 6th Phase
+2A,KBS (Majestic),IG - Indira Gandhi circle
+2B,KBS (Majestic),Eliyas Nagar
+2F,KBS (Majestic),Basaveshwaranagar
+3B,J.P.Nagar 6th Phase,Jayanagar 9th Block
+3E,Banashankari 3rd Stage 2nd Phase,BTM Layout
+12,Banashankari,Banashankari 2nd Stage
+12A,Banashankari Bus Stand,Shivajinagar
+12B,Shivajinagar,Malleshwaram Bus Station
+12E,Padmanabhanagar,Kumaraswamy Layout
+13,KBS (Majestic),Mathikere
+13B,BTM Layout (Kuvempunagar),J.P.Nagar 3rd phase
+14,Byrasandra,Ganganagar
+15A,Kamalanagar,Shivajinagar
+15E,Domlur,Gandhi Bazaar
+21 (Pushpak),KBS (Majestic),Banashankari 3rd Stage 2nd Phase
+25,RT Nagar,Bapuji Nagar
+25 E,Banashankari 3rd Stage 2nd Phase,KBS (Majestic)
+26,Hosakerehalli,N R Colony
+30,Malleswaram Bus Station,Hosakerehalli
+33E,KBS (Majestic),Banashankari 3rd Stage 2nd Phase
+34,NR Colony,Banashankari 3rd Stage 2nd Phase
+38,Banashankari 3rd Stage 2nd Phase,KBS (Majestic)
+41,KBS (Majestic),Banashankari
+43B,KBS (Majestic),Banashankari 3rd Stage 2nd Phase
+43E,Hosakerehalli,N R Colony
+44,KBS (Majestic),Banashankari 3rd Stage 2nd Phase
+57A,KBS (Majestic),Yeshvantapur Railway station
+59,Vijayanagar,K.R Market
+60A,Jayanagar 9th Block,Vijayanagar
+60E,BTM layout,Vijayanagar via 60A
+61,KBS (Majestic),Vijaynagar
+"61A,G",KBS (Majestic),Chandra Layout
+61B,KBS (Majestic),Vijaynagar (Maruthi Mandir)
+61C,KBS (Majestic),BCC layout
+61J,Shivajinagar,Chandra Layout 1st Stage
+63,KBS (Majestic),Vijaynagar
+64,Malleshwaram 18th cross,Hampinagar(RPC Layout)
+65B,Mathikere,K.H.B.Colony
+75,Vijayanagar,Vijayanagar
+75B,Nandini Layout,Vijayanagar
+77B,JaiMaruthinagar,Goraguntepalya
+77C,Jayanagar 9th Block,KBS (Majestic)
+80A,KBS (Majestic),KBS (Majestic)
+80B,Majestic,Yeshvantapur Railway station
+80C,KBS (Majestic),KBS (Majestic)
+86E,KBS (Majestic),Kamala nagar
+87,KBS (Majestic),BEML layout
+88,Kamala nagar,Bhimjyoti Nagar
+88A,Chowdeshwari/JP nagar bus station,BTM Layout
+96,J.P.Nagar 3rd phase,BTM Layout
+90E,Banashankari,Kamala Nagar
+96A,Banashankari,BTM Layout
+96B,J.P.Nagar 3rd phase,Kamala Nagar
+96C,Banashankari,J.P.Nagar 3rd phase
+96D,Byrasandra,Ganganagar
+96F,Banashankari,J.P.Nagar 6th Phase
+99E,Domlur,Gandhi Bazaar
+100E,KBS (Majestic),Banashankari 3rd Stage 2nd Phase
+107D,Yeshvantapur,Mathikere
+112E,Koramangla,Kaval Byrasandra
+115A,KBS (Majestic),Ananda Nagar
+114E,Chinnapa Garden,Domlur bus station
+115,KBS(Majestic),Ananda Nagar
+119A,KBS(Majestic),Chinnapa Garden
+124,KBS(Majestic),Chinnapa Garden
+"131,131F",KBS(Majestic),Domlur bus station
+137,Yeshvantapur,Domlur
+137A,Yeshvanthpur,Jeevan Bhima Nagar
+138,Kempegowda Bus Station,Jeevan Bhima Nagar
+138D,Kempegowda Bus Station,Jeevan Bhima Nagar
+139,Shivajinagar,Jeevan Bhima Nagar
+144G,SultanPalya,Rose Garden
+144H,Nandini Layout,Viveknagar
+144K,Kaval Byrasandra,Nellasandra
+162A,KBS (Majestic),Rose Garden
+173,Yeshvantapur,Madivala
+173A,Mathikere,Koramangala
+174,Koramangala,Koramangala
+176,Kaval Byrasandra,Nandini Layout
+180,K.H.B.Colony,Hampinagar
+181,Bhima Jyoti Nagar,Kaval Byrasandra
+186,Nandini Layout,Jayanagar 9th block
+188,Sultan Palya,Mathikere
+188B,Chowdeshwarinagar a,Mahalakshmi Layout
+189,Jeevan Bhima Nagar,Jeevan Bhima Nagar
+190,Jeevan Bhima Nagar,Jeevan Bhima Nagar via 190
+190A,Sultan Palya,Srinagar
+197,Jeevan Bhima Nagar,Madivala Mosque (Madivala Ayyapa Temple)
+201,Banashankari,Jeevan Bhima Nagar
+201D,Jeevanhalli,Srinagar
+201G,Chikkalsandra,Jeevan Bhima Nagar
+201J,Jeevan Bhima Nagar,Uttarahalli
+201H,Jeevan Bhima Nagar,Rajankunte
+201M,Jeevan Bhima Nagar,Doddballapur
+201MA,Jeevan Bhima Nagar,Rajankunte
+201MD,Domlur,J.P.Nagar 6th Phase
+201MJ,Banashankari,Jeevan Bhima Nagar
+201R (Volvo),CV Raman Nagar,J.P.Nagar 6th Phase
+201RC (AC Marcopolo),CV Raman Nagar,J.P.Nagar 6th Phase
+201S,Domlur,AGCS Layout
+201U,Jayanagar 4th Block,K.R.Market
+201V,K.R.Market,K.R.Market
+211N,Doddabasti,K.R.Market
+213V,Banashankari,Ullal Satellite Town
+215Z,K.R.Market,Kempegowda Bus station
+222A,K.R.Market,N.R.Colony
+222D,Jalahalli Cross,K.R.Market
+223J,K.R.Market,Banashankari
+224L,Ullal Satellite Town,Nagarbhavi
+226W,Sunkadgatte,Jalahalli Cross
+234B,Jalahalli Cross,Jayanagar 9th block
+235N,Vidyaranyapura,Vidyaranyapura
+240P,Bhoopasandra,Bhoopasandra
+248SA/60A,Market,Market
+270H,Shivajinagar,Shivajinagar
+270HA,KBS (Majestic),KBS (Majestic)
+276G (Volvo),K.R.Puram,Ramamurthy Nagar
+276N,Sarjapura,Attibelle
+278B,Hosakote,Electronic City
+279F,Bannerghatta National Park,Vijayanagar
+285,Byrasandra (Jayanagar),Electronic City
+285 MK,Kengeri,Kengeri
+285 M,Kengeri,Kengeri
+298 M,Kengeri,Kengeri
+300Q,Kengeri,Kengeri
+301E,Kengeri,Kengeri
+314,K R Market,Basavanagar
+314A,KBS (Majestic),KBS (Majestic)
+314B,C V Raman Nagar,Shivajinagar
+314D,Hosakote,Chennamanakere Achukattu
+314E,Vignananagar,K.R.Puram
+314F,K R Market,Bhyrasandra
+314G,KBS (Majestic),KBS (Majestic)
+314H,C V Raman Nagar,Malleshpalya
+314K,Shivajinagar,Chennamanakere Achukattu
+314N,K.R.Puram,Ramamurthy Nagar
+315K,KBS (Majestic),KBS (Majestic)
+315-L,Hosakote,Electronic City
+328B,Kodigehalli,Byadarahalli
+328H,Jalahalli Cross,Abbigere
+328HA,Byatarayanpura,Hebbal Ring Road
+334E,Domlur,Yelahanka Satellite Town
+356J,Yelahanka Satellite Town,Bagalkunte
+365M,Hulimavu,Kengeri
+366P,Shirke,Shantinagar
+369M,Jigani,Jayanagar 4th Block
+375,Anekal,Anekal
+375A (Volvo),Yelahanka,Yelahanka
+375 B,Yeshvantapur,Yelahanka
+378,Kengeri,Kengeri
+378A,Shirke,Electronic city
+378B,Kengeri,Electronic city
+399,Hosakote,Chikka Tirupati
+399C,Yeshvantapur,Hampi Nagar
+401,Kengeri,Kengeri
+401B,TTMC,Anekal
+401M,Yelahanka,Yelahanka
+401K,Kengeri,Kengeri
+401P,Yeshwantapura,Market
+401S,Kengeri,Kengeri
+402,K R Market,Basavanagar
+402 B & 402 Majestic D,ISRO Layout,Chikkalasandra
+402 C Majestic,Jalahalli Cross,Vijayanagar
+402G,Electronic City,Agara
+402M,Hennur Cross,K.Narayanapura
+410,Electronic City,Brigade Road
+410C,Agara,Hennur Cross
+410D,Electronic City,Banashankari
+410E,Central silk Board,
+412,Banashankari,Yelahanka Satellite Town
+414,Hebbal,Hebbal
+415S,nagenahalli,Banashankari
+500A,Banashankari,Yelahanka Satellite Town
+500AA,Brigade,Millenium(J.P.Nagar 7th Phase)
+500BM(Volvo),Hebbal,Hebbal (Volvo)
+500C,Banashankari (Volvo),Central silk Board
+500D,Hebbal,Vidyaranyapura (Volvo)
+500DE,Hebbal (Volvo),Hebbal
+500DF(Volvo),Hebbal,Hebbal
+500K(Volvo),Vijayanagar,Mathikere
+500KB(Volvo),Gottigere,Kalyani Magnum (J.P.Nagar 4th phase)
+505 (Volvo),ITPL,Jeevanbhimanagar (Volvo)
+505A,Krishnarajapuram Railway Station,ITPL
+600K(Volvo),Vijayanagar,Electronic City
+600QA,Gate,Banashankari
+BIAS-4,Old airport(HAL),J.P.Nagar 6th Phase
+BIAS-5,Kadugodi,HSR Layout
+BIAS-6,HSR Layout,Electronic City
+BIAS-7,BTM Layout,Majestic
+BIAS-7A,Electronic City,BTM Layout
+BIAS-8,Majestic,Chikkalasandra
+BIAS-8A,BTM Layout,Majestic
+BIAS-9,Chikkalasandra,BTM LAyout
+BIAS-11,BTM LAyout,Majestic
+BIAS-12,Majestic,Electronic City
+BC-1,Doddenakundi,Bellandur
+BC-1A,Marathahalli Bridge,Electronic City
+BC-2,Kodathi Gate,Varthoor
+BC-3A,HSr Layour,Kodi St. Johns
+BC-4,CPWD,Banashankari
+BC-4A,Jayanagar 4th Block,Yelenhalli
+BC-5,TTMC Kengeri,Ullal Satellite Town
+BC-6,Uttarahalli,Kaggalipura
+BC-6A,Kengeri,Ullal Satellite Town
+BC-7,Ullal Satellite Town,Peenya 2nd stage
+BC-7A,Kodigehalli,Madanayakanhalli 8th Mile
+BC-7B,Tumkur Road,Vidyaranyapura
+BC-8,Jalahalli Cross,Nagavara junction
+BC-8A,Abbigere,Bagalur
+BC-9,Byatarayanpura,Kothanur(Hennur)
+BC-9A,Byatarayanpura,Kannur
+BC-11,K.R.Puram,Geddalhalli
+BC-11A,Avalahalli(Old Madras Road),HAL Gate
+BC-12,Kothanur(Hennur),Kaval Byrasandra
+BC-12A,K.R.Puram,Kothanur(Hennur)
+BC-12B,K.R.Puram,Nandini Layout
+FDR1,Uttarahalli,Uttarahalli
+FDR2,Uttarahalli,Uttarahalli
+FDR-5,Chikkalasandra,Chikkalasandra
+FDR-6,Chikkalasandra,Chikkalasandra
+NLMF-1,Yeshvantapur,Hessarghatta
+NLMF-2,RMC,Chikka Banawara
+WFS-1&2,Peenya 2nd stage,Marathahalli
+MBS,Marathahalli,Jalahalli Cross
+MF1(129D),KBS(Majestic),To KBS(Majestic)
+MF-2,KBS(Majestic),KBS(Majestic)
+MF-3,Banashankari,Shivajinagar bus Stand
+MF-4,Central Silk Board,Madiwala
+MF-5,Thambuchetty Palya,Baiyappanhalli Station
+MF-6,ITI Colony,Mysore Road Satellite Bus stand(MCTC)
+MF-7,Domlur,M.G.Road Metro Station
+MF-9,Kalyan nagar,Old Baiyappanhalli
+MF10(121BA),Mangamman Palya,Kadugodi
+G-1,MG Road,Kadugodi
+G-2,Brigade Road,Sarjapura
+G-3,Brigade Road,Electronic city
+G-4,Brigade Road,Bannerghatta National Park
+G-5,Brigade Road,Kaggalipura
+G-6,Brigade Road,Kengeri Satellite Town
+G-7,Kempegowda Bus Janapriya Township Station,M.G.Road Metro station
+G-8,Nelamangala,Corporation
+G-9,Yelahanka Satellite Town,Corporation
+G-10,RK Hegde Nagar,M.G.Road Metro station
+G-11,Bagalur,Shantinagar
+G-12,Hosakote,M.G.Road Metro station
+B-3,Electronic City,Peenya 2nd stage
+C-1,Hebbal,Kengeri
+C-3,Hebbal,Banashankari
+D-5,Banashankari,Hebbal
+D-6,Kengeri Satellite Town,Kadugodi
+D-9,Banashankari,Marathahalli
+D-12,Banashankari,Tin Factory
+K-1,St. John's Hospital,Yeshvantapur
+K-2,Hebbal,MCTC
+K-3,Basaweshwaranagar,Koramangala
+BIAS-4,Old airport(HAL),J.P.Nagar 6th Phase
+BIAS-5,Kadugodi,HSR Layout
+BIAS-6,HSR Layout,Electronic City
+BIAS-7,BTM Layout,Majestic
+BIAS-7A,Electronic City,BTM Layout
+BIAS-8,Majestic,Chikkalasandra
+BIAS-8A,BTM Layout,Majestic
+BIAS-9,Chikkalasandra,BTM LAyout
+BIAS-11,BTM LAyout,Majestic
+BIAS-12,Majestic,Electronic City
